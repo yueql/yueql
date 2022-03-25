@@ -1,1 +1,1 @@
-C &emsp;  C++    JAVA   JDK  openjdk   
+C &emsp; C++ &emsp;  JAVA &emsp; JDK &emsp; openjdk   
